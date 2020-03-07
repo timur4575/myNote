@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.idea
+pom.xml
 
 # Log file
 *.log
